@@ -1,0 +1,17 @@
+{
+  "name": "roadiz/cms-pack",
+  "type": "symfony-pack",
+  "license": "MIT",
+  "description": "A pack for Roadiz CMS",
+  "require": {
+    "roadiz/core-bundle": "*",
+    "roadiz/compat-bundle": "*",
+    "roadiz/rozier-bundle": "*",
+    "symfony/asset": "*",
+    "symfony/orm-pack": "*",
+    "symfony/security-bundle": "*",
+    "symfony/twig-bundle": "*",
+    "symfony/validator": "*",
+    "jms/serializer-bundle": "*"
+  }
+}
