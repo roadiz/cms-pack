@@ -12,6 +12,10 @@
     "symfony/security-bundle": "*",
     "symfony/twig-bundle": "*",
     "symfony/validator": "*",
-    "jms/serializer-bundle": "*"
+    "jms/serializer-bundle": "*",
+    "rezozero/intervention-request-bundle": "*"
+  },
+  "replace": {
+    "roadiz/roadiz": "*"
   }
 }
