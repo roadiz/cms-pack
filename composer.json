@@ -18,5 +18,6 @@
     "symfony/security-bundle": "*",
     "symfony/twig-bundle": "*",
     "symfony/validator": "*"
-  }
+  },
+  "minimum-stability": "dev"
 }
