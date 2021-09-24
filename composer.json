@@ -4,18 +4,19 @@
   "license": "MIT",
   "description": "A pack for Roadiz CMS",
   "require": {
-    "roadiz/core-bundle": "*",
-    "roadiz/compat-bundle": "*",
-    "roadiz/rozier-bundle": "*",
+    "composer/package-versions-deprecated": "1.11.99.3",
+    "doctrine/doctrine-bundle": "^2.3",
+    "doctrine/doctrine-migrations-bundle": "^3.1",
+    "doctrine/orm": "^2.8",
+    "jms/serializer-bundle": "*",
+    "rezozero/intervention-request-bundle": "* || dev-master",
+    "roadiz/compat-bundle": "* || dev-main",
+    "roadiz/core-bundle": "* || dev-main",
+    "roadiz/rozier-bundle": "* || dev-main",
     "symfony/asset": "*",
-    "symfony/orm-pack": "*",
+    "symfony/proxy-manager-bridge": "^5.3",
     "symfony/security-bundle": "*",
     "symfony/twig-bundle": "*",
-    "symfony/validator": "*",
-    "jms/serializer-bundle": "*",
-    "rezozero/intervention-request-bundle": "*"
-  },
-  "replace": {
-    "roadiz/roadiz": "*"
+    "symfony/validator": "*"
   }
 }
