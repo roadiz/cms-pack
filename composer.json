@@ -17,7 +17,8 @@
     "symfony/mailer": "*",
     "symfony/messenger": "*",
     "symfony/proxy-manager-bridge": "^5.3",
-    "symfony/security-bundle": "*",
+    "symfony/security-bundle": "5.4.*",
+    "symfony/security-core": "5.4.*",
     "symfony/twig-bundle": "*",
     "symfony/validator": "*"
   },
