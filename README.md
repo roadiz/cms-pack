@@ -7,9 +7,9 @@ Installation instructions are available in the [Roadiz documentation](https://do
 ```shell
 mkdir -p ./themes
 mkdir -p ./var/secret
+mkdir -p ./var/export
 mkdir -p ./public/assets
 mkdir -p ./public/files
-mkdir -p ./generated
 
 bin/console doctrine:migrations:migrate
 bin/console themes:assets:install Rozier
