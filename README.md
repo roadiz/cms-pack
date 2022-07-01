@@ -22,8 +22,7 @@ Update your `composer.json` to autoload themes and generated entities
 {
     "autoload": {
         "psr-4": {
-            "Themes\\": "themes/",
-            "GeneratedNodeSources\\": "generated/"
+            "Themes\\": "themes/"
         }
     }
 }
