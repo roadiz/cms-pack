@@ -8,10 +8,10 @@
     "doctrine/doctrine-migrations-bundle": "^3.1",
     "doctrine/orm": "^2.8",
     "jms/serializer-bundle": "*",
-    "rezozero/intervention-request-bundle": "* || dev-master",
-    "roadiz/compat-bundle": "* || dev-main",
-    "roadiz/core-bundle": "* || dev-main",
-    "roadiz/rozier-bundle": "* || dev-main",
+    "rezozero/intervention-request-bundle": "~2.0.0 || dev-develop",
+    "roadiz/compat-bundle": "~2.0.0 || dev-develop",
+    "roadiz/core-bundle": "~2.0.0 || dev-develop",
+    "roadiz/rozier-bundle": "~2.0.0 || dev-develop",
     "symfony/asset": "*",
     "symfony/dotenv": "*",
     "symfony/mailer": "*",
@@ -23,6 +23,5 @@
     "symfony/security-csrf": "5.4.*",
     "symfony/twig-bundle": "*",
     "symfony/validator": "*"
-  },
-  "minimum-stability": "dev"
+  }
 }
