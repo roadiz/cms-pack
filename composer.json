@@ -15,7 +15,6 @@
     "symfony/dotenv": "*",
     "symfony/mailer": "*",
     "symfony/messenger": "*",
-    "symfony/proxy-manager-bridge": "*",
     "symfony/security-bundle": "*",
     "symfony/security-core": "*",
     "symfony/security-http": "*",
