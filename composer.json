@@ -10,7 +10,6 @@
     "doctrine/doctrine-migrations-bundle": "*",
     "doctrine/orm": "*",
     "rezozero/intervention-request-bundle": "*",
-    "roadiz/compat-bundle": "dev-develop",
     "roadiz/core-bundle": "dev-develop",
     "roadiz/rozier-bundle": "dev-develop",
     "symfony/asset": "*",
